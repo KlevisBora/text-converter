@@ -17,6 +17,4 @@ A simple desktop application built with **Java Swing** that allows users to conv
 1. Download or clone the repository.
 2. Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse, NetBeans).
 3. Compile and run `TextConverter.java`.
-4. Type or paste text in the text area and click the buttons to convert.
-
-##  Project Structure
+4. Type or paste text in the text area and click the buttons to convert them.
